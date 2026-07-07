@@ -1,4 +1,6 @@
- Executive Retail Sales Dashboard
+# Executive Retail Sales Dashboard
+
+![Dashboard](Dashboard.png)
 
 Project Overview
 This project presents an interactive Executive Retail Sales Dashboard developed using Power BI. The dashboard helps business leaders monitor key performance indicators (KPIs), analyze regional and category-wise sales performance, and identify opportunities for business growth through data-driven insights.
